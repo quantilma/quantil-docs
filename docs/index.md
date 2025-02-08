@@ -8,7 +8,7 @@ hide:
 Bienvenido a **Quantil Docs**, la documentación oficial de Quantil | Minería de datos  para estandarizar flujos de trabajo, garantizar la consistencia en los proyectos y facilitar la incorporación de nuevos miembros del equipo. Esta documentación sirve como una guía para todos los investigadores y colaboradores de Quantil, proporcionando mejores prácticas, herramientas y plantillas tanto para **Proyectos de Ciencia de Datos** como para **Desarrollo de Librerías**.
 
 ## Primeros pasos
-Dado que está en la fase Beta, te invito a revisar la documentación secuencialmente (como se presenta en la sección de Contenido) y revisar que esté completamente funcional (los comandos de instalación, los links). Crear Issues para añadir modulos, secciones, ejemplos o typos que creas relevantes.
+Dado que está en fase Beta, te invito a revisar la documentación en orden (como se presenta en la sección de Contenido) y verificar que todo funcione correctamente, incluyendo los comandos de instalación y los enlaces. Si encuentras errores, módulos faltantes, secciones mejorables o ejemplos necesarios, crea un Issue para sugerir mejoras.
 
 ## Contenido
 1. [Herramientas y Estándares](tools.md): Conoce las herramientas y estándares que utilizamos en todos los proyectos.
