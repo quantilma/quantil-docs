@@ -1,0 +1,71 @@
+site_name: Quantil Docs
+repo_url: https://github.com/quantilma/quantil-docs #https://github.com/dataguirre/cookiecutter-uv
+# site_url: https://fpgmaas.github.io/cookiecutter-uv
+site_description: an example blog set up following the blog tutorials
+site_author: Florian Maas
+edit_uri: edit/main/docs/
+repo_name: quantilma/quantil-docs
+copyright: Mantenido por <a href="https://quantil.com.co">Quantil </a>
+
+nav:
+- QuantilDocs: index.md
+- Estándares:
+  - PEPs: peps.md
+  - Commits convencionales: conventional_commits.md
+  - CI/CD: ci_cd.md
+
+- Herramientas:
+  - PDTK: peps.md
+  - Dependencias y ambientes: conventional_commits.md
+  - CV y plataformas: conventional_commits.md
+  - CI/CD: ci_cd.md
+  - Otras herramientas relevantes: ci_cd.md
+
+- Plantillas:
+  - "": Plantillas/index.md
+  - Ciencia de Datos: templates/ds.md
+  - Creación de librerías: templates/libs.md
+  - Otros proyectos: templates/libs.md
+
+- Flujo de trabajo: example.md
+  # - Crear/entrar a proyectos: workflow_best_practices.md
+
+- Tutoriales: examples.md
+
+
+nav:
+- Inicio: index.md
+- Herramientas y estándares: tools.md
+- Plantillas de proyectos: templates.md
+- Flujo de trabajo: workflow_best_practices.md
+- Ejemplos: examples.md
+
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: quantil
+    
+  features:
+    # - navigation.tabs
+    - navigation.expand
+    - content.code.copy
+    
+  icon:
+    repo: fontawesome/brands/github
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/quantilma
+    - icon: fontawesome/solid/globe
+      link: https://quantil.com.co
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
