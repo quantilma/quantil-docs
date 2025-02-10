@@ -1,0 +1,46 @@
+[data-md-color-scheme="quantil"] {
+  --md-primary-fg-color:        #252F3E;
+  --md-primary-fg-color--light:        #3D485C;
+  --md-primary-fg-color--dark:         #181F2A;
+  --md-primary-bg-color:               #ffffff;
+  --md-primary-bg-color--light:        rgba(255, 255, 255, 0.7);
+
+  /* Accent color shades */
+  --md-accent-fg-color:                rgb(250,175,59);
+  --md-accent-fg-color--transparent:   rgba(250, 175, 59, 0.1);
+  --md-accent-bg-color:                #ffffff;
+  --md-accent-bg-color--light:         rgba(255, 255, 255, 0.7);
+
+  --md-typeset-a-color: #36C2B4;
+
+
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 210; 
+
+
+}
+.user {
+  margin: 1em;
+  min-width: 7em;
+}
+.user .avatar-wrapper {
+  width: 80px;
+  height: 80px;
+  margin: 10px auto;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+}
+.user .title {
+  text-align: center;
+}
+.user-list-center {
+  justify-content: space-evenly;
+}
+.user-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
