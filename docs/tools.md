@@ -6,8 +6,8 @@ En Quantil, confiamos en un conjunto de herramientas para garantizar consistenci
 
 ### Python Development ToolKit
 - **Version**: Python 3.9+
-- **Linting**: `ruff` Se utiliza para resaltar bugs y errores de estilo. Ver estándares para revisar que reglas se aplican.
-- **Formatter**: `ruff` Se utiliza para formatear código y que sea más consistente el proyecto. Ver estándares para revisar que reglas se aplican.
+- **Linting**: `ruff` Se utiliza para resaltar bugs y errores de estilo. Ver estándares para revisar qué reglas se aplican.
+- **Formatter**: `ruff` Se utiliza para formatear código y que sea más consistente el proyecto. Ver estándares para revisar qué reglas se aplican.
 - **Testing**: `pytest`, `coverage`
 !!! note "Trabajar en el editor de texto"
     Herramientas como `ruff` tienen extensiones para trabajar en su editor de texto favorito. Se recomienda fuertemente sustituir las que vengan por defecto.
