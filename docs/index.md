@@ -14,7 +14,7 @@ Dado que está en fase Beta, te invito a revisar la documentación en orden (com
 1. [Herramientas y Estándares](tools.md): Conoce las herramientas y estándares que utilizamos en todos los proyectos.
 2. [Plantillas de Proyectos](templates.md): Explora nuestras plantillas para proyectos de Ciencia de Datos y desarrollo de librerías.
 3. [Ejemplos](examples.md): Consulta ejemplos reales de cómo estructuramos y ejecutamos proyectos.
-4. [Flujo de Trabajo y Mejores Prácticas](workflow.md): Entiende el ciclo de vida de nuestros proyectos y las mejores prácticas.
+4. [Flujo de Trabajo y Mejores Prácticas](workflow_best_practices.md): Entiende el ciclo de vida de nuestros proyectos y las mejores prácticas.
 
 ## Autores
 <div class="user-list user-list-center">

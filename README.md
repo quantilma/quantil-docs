@@ -4,7 +4,7 @@ Esta es la documentación de Quantil, un proyecto colaborativo entre todos sus i
 
 clona el repositorio
 ```bash
-git clone ...
+git clone https://github.com/quantilma/quantil-docs.git
 ```
 
 Crea el ambiente:
